@@ -1,0 +1,4 @@
+player: [["client.dll" + 0x00C8CCC4] + 0x50]
+
+fire: "client.dll" + 0xC90E34
+crosshair_id: player + 0x1CC

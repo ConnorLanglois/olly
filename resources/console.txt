@@ -1,0 +1,5 @@
+sv_cheats 1
+ent_fire team_round_timer settime 1
+ent_fire team_round_timer addtime 4000
+tf_bot_add
+nb_stop 1
